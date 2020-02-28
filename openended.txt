@@ -1,0 +1,3 @@
+1. Explain benefits(s) of using client-side routing? 
+
+Answer: Client-side routing improves the UI in a website and provides clients with an exceptionally better user experience. Client-side routing loads the entire website and necessary data all at once on the initial loading of the website. This inevitably makes the initial rendering of the website to the user longer than it would be on perhaps a server-side routing page.However after the initial rendering of the page, the user can navigate through the webpage without any network request, delays or waiting times for a page to load sometime on it. 
