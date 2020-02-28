@@ -13,11 +13,8 @@ height:2rem;
 margin:1rem;
 border:purple 2px solid;
 border-radius:10px;
-
 `
-
 export default function SearchForm({inputHandler}) {
- 
   return (
     <Section >
      <label htmlFor='input'>

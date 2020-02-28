@@ -10,7 +10,7 @@ flex-direction:column;
 align-items:center;
 padding:.5rem;
 margin:2rem;
-box-shadow: 10px 10px 10px 10px lightgrey;
+box-shadow: 10px 10px 10px 10px black;
 color:white;
 background-Color: purple;
 width:40%;
@@ -26,7 +26,6 @@ const ParentContainer =styled.div`
 display:flex;
 justify-content: space-around;
 flex-wrap:wrap;
-
 `
 
 export default function CharacterList() {
